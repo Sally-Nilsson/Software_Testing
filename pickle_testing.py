@@ -40,9 +40,9 @@ TEST_CASES = {
     "negative_infinite_float": float('-inf'),
     "negative_zero": -0.0,
     "negative_int": -42,
-    "float nan": float('nan'),
-    "float inf": float('inf'),
-    "float -inf": float('-inf')
+    "float_nan": float('nan'),
+    "float_inf": float('inf'),
+    "float_-inf": float('-inf')
 }
 
 recursive = []
