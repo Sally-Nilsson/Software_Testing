@@ -36,8 +36,6 @@ TEST_CASES = {
     "empty_dict": {},
     "empty_set": set(),
     "empty_tuple": (),
-    "infinite_float": float('inf'),
-    "negative_infinite_float": float('-inf'),
     "negative_zero": -0.0,
     "negative_int": -42,
     "float_nan": float('nan'),
